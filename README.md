@@ -1,5 +1,13 @@
 # CareOS Person Centered Care Platform
 
-## Tech stack (planned): TypeScript, Node.js, Express, PostgreSQL — "Docker/AWS to follow."
+## Tech stack (planned):
 
-## Status: "In active development — Week 1."
+- TypeScript
+- Node.js
+- Express
+- PostgreSQL
+- Docker/AWS to follow
+
+## Status:
+
+In active development — Week 1.
